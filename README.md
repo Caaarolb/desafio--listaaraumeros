@@ -18,7 +18,7 @@ Este projeto em Java converte uma lista de strings em uma lista de números inte
 
 ## Exemplo de Entrada
 ```java
-List<String> input = Arrays.asList("10", "abc", "20", "30x"); 
+("10", "abc", "20", "30x")
 ```
 
 ## Saída Esperada
